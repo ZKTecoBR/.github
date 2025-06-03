@@ -16,7 +16,7 @@ Esta organização GitHub hospeda projetos desenvolvidos ou mantidos pela filial
 
 Os repositórios são privados por padrão. Solicitações de acesso devem ser encaminhadas para:
 
-**desenvolvimento.brasil@zkteco.com.br**
+**ronan.peixoto@zkteco.com.br**
 
 ## Site institucional
 
@@ -40,7 +40,7 @@ This GitHub organization hosts projects developed or maintained by the Brazilian
 
 Repositories are private by default. Access requests must be submitted to:
 
-**desenvolvimento.brasil@zkteco.com.br**
+**ronan.peixoto@zkteco.com.br**
 
 ## Official website
 
